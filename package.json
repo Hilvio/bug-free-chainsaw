@@ -1,0 +1,23 @@
+{
+  "name": "bug-free-chainsaw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node validator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hilvio/bug-free-chainsaw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hilvio/bug-free-chainsaw/issues"
+  },
+  "homepage": "https://github.com/Hilvio/bug-free-chainsaw#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
