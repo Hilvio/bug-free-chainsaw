@@ -1,5 +1,7 @@
 # bug-free-chainsaw
 
+Reads the given CSV file and performs simple field validations based on regular expression rules.
+
 ## Get Started
 
 ### Install depedencies:
